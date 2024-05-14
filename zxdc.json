@@ -1,11 +1,11 @@
 
 {
     "urls": [
-          {"url": "https://gitee.com/lgq79650238/tv/raw/master/fty/fty.json","name": "fty"},
+          {"url": "https://raw.githubusercontent.com/lgq79650238/pg/main/fty/fty.json","name": "fty"},
 		            {"url": "http://ok321.top/tv","name": "OK"},
 					 {"url": "http://xhww.fun/小米/DEMO.json","name": "小米"},
-{"url": "https://gitee.com/lgq79650238/tv/raw/master/xiangyaqing/xiangyaqing.json","name": "xiangyaqing"},
-         {"url": "https://gitee.com/lgq79650238/tv/raw/master/js/jsm.json","name": "pg线路"},
+{"url": "https://raw.githubusercontent.com/lgq79650238/pg/main/xiangyaqing/xiangyaqing.json","name": "xiangyaqing"},
+         {"url": "https://raw.githubusercontent.com/lgq79650238/pg/main/js/jsm.json","name": "pg线路"},
 
  
         {"url": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json","name": "⚜️流云线路"},
