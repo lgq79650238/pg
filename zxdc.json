@@ -1,16 +1,17 @@
 
 {
     "urls": [
-          {"url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json","name": "XC"},
-          {"url": "http://ok321.top/tv","name": "OK内部"},
-          {"url": "http://ok321.top/ok","name": "OK公开"},
-          {"url": "http://www.饭太硬.com/tv/","name": "饭太硬线路"},
-          {"url": "http://tv.999888987.xyz/","name": "王二小线路"},
-          {"url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/lgq79650238/pg/main/pg/jsm.json","name": "pg本地"},
-          {"url": "http://biaozhun114.com/6.php","name": "直播线路"},
-          {"url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/lgq79650238/pg/main/XC/XC.json","name": "xc本地"},
-           {"url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/lgq79650238/pg/main/drpy/index.json","name": "道长"},
-        
-        ]
+        {"url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json","name": "XC"},
+        {"url": "http://ok321.top/tv","name": "OK内部"},
+        {"url": "http://ok321.top/ok","name": "OK公开"},
+        {"url": "http://www.饭太硬.com/tv/","name": "饭太硬线路"},
+        {"url": "http://tv.999888987.xyz/","name": "王二小线路"},
+        {"url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/lgq79650238/pg/main/pg/jsm.json","name": "pg本地"},
+        {"url": "http://biaozhun114.com/6.php","name": "直播线路"},
+        {"url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/lgq79650238/pg/main/XC/XC.json","name": "xc本地"},
+        {"url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/lgq79650238/pg/main/drpy/index.json","name": "道长"},
+    
+    
+    ]
   
 }
