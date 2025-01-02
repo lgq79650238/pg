@@ -1,0 +1,14 @@
+
+{
+    "urls": [
+        {"url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json","name": "XC"},
+        {"url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/lgq79650238/pg/main/pg/jsm.json","name": "pg本地"},
+		{"url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/lgq79650238/pg/main/pgx/jsm.json","name": "pgx"},
+		{"url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/lgq79650238/pg/main/pg0824/jsm.json","name": "pg0824"},
+        {"url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/lgq79650238/pg/main/drpy/index.json","name": "道长"}
+		{"url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/lgq79650238/pg/main/zx/FongMi.json","name": "真心"}
+		
+    
+    ]
+  
+}
